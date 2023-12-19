@@ -2,3 +2,5 @@
 
 # .NET MAUI Shell AutoRoutes Sample
 Sample code to demonstrate how to work with the [epj.RouteGenerator](https://github.com/ewerspej/epj.RouteGenerator) package in .NET MAUI
+
+Make sure to check out Julian's blog post about this too: https://blog.ewers-peters.de/introducing-route-generator-for-net
