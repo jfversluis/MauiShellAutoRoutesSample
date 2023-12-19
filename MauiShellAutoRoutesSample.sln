@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34407.89
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiShellAutoRoutesSample", "MauiShellAutoRoutesSample\MauiShellAutoRoutesSample.csproj", "{381469EA-F37F-4489-A1AB-DC410D3BBE94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{381469EA-F37F-4489-A1AB-DC410D3BBE94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{381469EA-F37F-4489-A1AB-DC410D3BBE94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{381469EA-F37F-4489-A1AB-DC410D3BBE94}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{381469EA-F37F-4489-A1AB-DC410D3BBE94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{381469EA-F37F-4489-A1AB-DC410D3BBE94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{381469EA-F37F-4489-A1AB-DC410D3BBE94}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB9C9885-5A92-4C3E-B338-F9163746FACD}
+	EndGlobalSection
+EndGlobal
